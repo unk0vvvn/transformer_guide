@@ -15,8 +15,7 @@
 원서에서 제공하는 원본 코드를 직접 다운로드하려면 다음의 링크를 참고하기 바랍니다.
 
 ■ 영어 원서 코드 및 컬러 이미지 _ https://rebrand.ly/hydtz8g
-■ 영어 원서 코드(GitHub) _ h ttps://github.com/bpbpublications/Building-Transformer-Modelswith-
-PyTorch-2.0
+■ 영어 원서 코드(GitHub) _ https://github.com/bpbpublications/Building-Transformer-Modelswith-PyTorch-2.0
 
 이 책을 읽다가 궁금한 점이 생기거나, 오류를 발견한다면 다음의 메일로 제보해주세요.
 
